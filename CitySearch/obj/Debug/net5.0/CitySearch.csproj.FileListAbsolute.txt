@@ -1,0 +1,16 @@
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\CitySearch.exe
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\CitySearch.deps.json
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\CitySearch.runtimeconfig.json
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\CitySearch.runtimeconfig.dev.json
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\CitySearch.dll
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\ref\CitySearch.dll
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\bin\Debug\net5.0\CitySearch.pdb
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.csproj.AssemblyReference.cache
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.AssemblyInfoInputs.cache
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.AssemblyInfo.cs
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.csproj.CoreCompileInputs.cache
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.dll
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\ref\CitySearch.dll
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.pdb
+C:\Users\TheDo\OneDrive\Desktop\CitySearch\obj\Debug\net5.0\CitySearch.genruntimeconfig.cache
